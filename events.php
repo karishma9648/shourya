@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
+<!DOCTYPE.php>
+.php lang="zxx">
     <head>
         <!--=== Meta Tags ===-->
         <meta charset="UTF-8">
@@ -23,7 +23,7 @@
         <link rel="stylesheet" href="assets/css/theme-dark.css">
 
         <!--=== Title & Favicon ===-->
-        <title>Findo - Fundraising & Charity HTML Template</title>
+        <title>Findo - Fundraising & Charity.php Template</title>
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
     </head>
     <body>
@@ -120,7 +120,7 @@
     <div class="navbar-area sticky-top">
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
-            <a href="index.html" class="logo">
+            <a href="index.php" class="logo">
                 <img src="assets/img/logo-two.png" class="logo-mini-header" alt="Logo">
             </a>
         </div>
@@ -129,40 +129,40 @@
         <div class="main-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="assets/img/logo.png" class="logo-one" alt="Logo">
                         <img src="assets/img/logo-two.png" class="logo-two" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="index.html" class="nav-link active">Home</a>
+                                <a href="index.php" class="nav-link active">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="gallery.html" class="nav-link">Gallery</a>
+                                <a href="gallery.php" class="nav-link">Gallery</a>
                             </li>
 
 
 
                             <li class="nav-item">
-                                <a href="about.html" class="nav-link">About</a>
+                                <a href="about.php" class="nav-link">About</a>
                             </li>
                             <li class="nav-item">
-                                <a href="donations.html" class="nav-link">Donations</a>
+                                <a href="donations.php" class="nav-link">Donations</a>
                             </li>
                             <!-- <li class="nav-item">
-                                <a href="events.html" class="nav-link">Events</a>
+                                <a href="events.php" class="nav-link">Events</a>
                             </li> -->
                             <li class="nav-item">
-                                <a href="blog.html" class="nav-link">Blog</a>
+                                <a href="blog.php" class="nav-link">Blog</a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link">Contact</a>
+                                <a href="contact.php" class="nav-link">Contact</a>
                             </li>
                         </ul>
                         <div class="side-nav">
-                            <a class="donate-btn" href="donations.html">
+                            <a class="donate-btn" href="donations.php">
                                 Donate
                                 <i class="icofont-heart-alt"></i>
                             </a>
@@ -183,7 +183,7 @@
                             <h2>Events</h2>
                             <ul>
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </li>
                                 <li>
                                     <span>Events</span>
@@ -207,7 +207,7 @@
                             <div class="inner">
                                 <h4>04 <span>Jan</span></h4>
                                 <h3>
-                                    <a href="event-details.html">Fundraising for MQ</a>
+                                    <a href="event-details.php">Fundraising for MQ</a>
                                 </h3>
                                 <ul>
                                     <li>
@@ -229,7 +229,7 @@
                             <div class="inner">
                                 <h4>05 <span>Jan</span></h4>
                                 <h3>
-                                    <a href="event-details.html">Shout about it with us</a>
+                                    <a href="event-details.php">Shout about it with us</a>
                                 </h3>
                                 <ul>
                                     <li>
@@ -251,7 +251,7 @@
                             <div class="inner">
                                 <h4>06 <span>Jan</span></h4>
                                 <h3>
-                                    <a href="event-details.html">Relief giving - Providing relief</a>
+                                    <a href="event-details.php">Relief giving - Providing relief</a>
                                 </h3>
                                 <ul>
                                     <li>
@@ -273,7 +273,7 @@
                             <div class="inner">
                                 <h4>07 <span>Jan</span></h4>
                                 <h3>
-                                    <a href="event-details.html">Volunteer meetup</a>
+                                    <a href="event-details.php">Volunteer meetup</a>
                                 </h3>
                                 <ul>
                                     <li>
@@ -295,7 +295,7 @@
                             <div class="inner">
                                 <h4>08 <span>Jan</span></h4>
                                 <h3>
-                                    <a href="event-details.html">Cleaning events in Greece</a>
+                                    <a href="event-details.php">Cleaning events in Greece</a>
                                 </h3>
                                 <ul>
                                     <li>
@@ -317,7 +317,7 @@
                             <div class="inner">
                                 <h4>09 <span>Jan</span></h4>
                                 <h3>
-                                    <a href="event-details.html">Event for free clothing</a>
+                                    <a href="event-details.php">Event for free clothing</a>
                                 </h3>
                                 <ul>
                                     <li>
@@ -365,7 +365,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="footer-item">
                         <div class="footer-logo">
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="index.php">
                                 <img src="assets/img/logo-two.png"  class="logo-footer" alt="Logo">
                             </a>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero, magni est placeat
@@ -407,7 +407,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donation-details.html">Donate for melina the little child</a>
+                                            <a href="donation-details.php">Donate for melina the little child</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -419,7 +419,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donation-details.html">Relief for Australia cyclone effected</a>
+                                            <a href="donation-details.php">Relief for Australia cyclone effected</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -434,25 +434,25 @@
                             <h3>Quick links</h3>
                             <ul>
                                 <li>
-                                    <a href="about.html">
+                                    <a href="about.php">
                                         <i class="icofont-simple-right"></i>
                                         About
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog.html">
+                                    <a href="blog.php">
                                         <i class="icofont-simple-right"></i>
                                         Blog
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="events.html">
+                                    <a href="events.php">
                                         <i class="icofont-simple-right"></i>
                                         Events
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="donations.html">
+                                    <a href="donations.php">
                                         <i class="icofont-simple-right"></i>
                                         Donation
                                     </a>
@@ -529,4 +529,4 @@
         <script src="assets/js/jquery.nice-select.min.js"></script>
         <script src="assets/js/custom.js"></script>
     </body>
-</html>
+<.php>

@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
+<!DOCTYPE.php>
+.php lang="zxx">
 
 <head>
     <!--=== Meta Tags ===-->
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="assets/css/theme-dark.css">
 
     <!--=== Title & Favicon ===-->
-    <title>Findo - Fundraising & Charity HTML Template</title>
+    <title>Findo - Fundraising & Charity.php Template</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -122,7 +122,7 @@
     <div class="navbar-area sticky-top">
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
-            <a href="index.html" class="logo">
+            <a href="index.php" class="logo">
                 <img src="assets/img/logo-two.png" class="logo-mini-header" alt="Logo">
             </a>
         </div>
@@ -131,40 +131,40 @@
         <div class="main-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="assets/img/logo.png" class="logo-one" alt="Logo">
                         <img src="assets/img/logo-two.png" class="logo-two" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="index.html" class="nav-link active">Home</a>
+                                <a href="index.php" class="nav-link active">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="gallery.html" class="nav-link">Gallery</a>
+                                <a href="gallery.php" class="nav-link">Gallery</a>
                             </li>
 
 
 
                             <li class="nav-item">
-                                <a href="about.html" class="nav-link">About</a>
+                                <a href="about.php" class="nav-link">About</a>
                             </li>
                             <li class="nav-item">
-                                <a href="donations.html" class="nav-link">Donations</a>
+                                <a href="donations.php" class="nav-link">Donations</a>
                             </li>
                             <!-- <li class="nav-item">
-                                <a href="events.html" class="nav-link">Events</a>
+                                <a href="events.php" class="nav-link">Events</a>
                             </li> -->
                             <li class="nav-item">
-                                <a href="blog.html" class="nav-link">Blog</a>
+                                <a href="blog.php" class="nav-link">Blog</a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link">Contact</a>
+                                <a href="contact.php" class="nav-link">Contact</a>
                             </li>
                         </ul>
                         <div class="side-nav">
-                            <a class="donate-btn" href="donations.html">
+                            <a class="donate-btn" href="donations.php">
                                 Donate
                                 <i class="icofont-heart-alt"></i>
                             </a>
@@ -185,7 +185,7 @@
                         <h2>Blog</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="index.php">Home</a>
                             </li>
                             <li>
                                 <span>Blog</span>
@@ -206,7 +206,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog1.jpg" alt="Blog">
                             </a>
                         </div>
@@ -223,11 +223,11 @@
                                 </li>
                             </ul>
                             <h3>
-                                <a href="blog-details.html">Donate for nutration less poor people</a>
+                                <a href="blog-details.php">Donate for nutration less poor people</a>
                             </h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                 dolor laudantium distinction</p>
-                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                            <a class="blog-btn" href="blog-details.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog2.jpg" alt="Blog">
                             </a>
                         </div>
@@ -252,11 +252,11 @@
                                 </li>
                             </ul>
                             <h3>
-                                <a href="blog-details.html">Charity meetup in Berline next year</a>
+                                <a href="blog-details.php">Charity meetup in Berline next year</a>
                             </h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                 dolor laudantium distinction</p>
-                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                            <a class="blog-btn" href="blog-details.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog3.jpg" alt="Blog">
                             </a>
                         </div>
@@ -281,11 +281,11 @@
                                 </li>
                             </ul>
                             <h3>
-                                <a href="blog-details.html">Donate for the poor people to help them</a>
+                                <a href="blog-details.php">Donate for the poor people to help them</a>
                             </h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                 dolor laudantium distinction</p>
-                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                            <a class="blog-btn" href="blog-details.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -293,7 +293,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog4.jpg" alt="Blog">
                             </a>
                         </div>
@@ -310,11 +310,11 @@
                                 </li>
                             </ul>
                             <h3>
-                                <a href="blog-details.html">Charity projects for over 10 million people</a>
+                                <a href="blog-details.php">Charity projects for over 10 million people</a>
                             </h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                 dolor laudantium distinction</p>
-                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                            <a class="blog-btn" href="blog-details.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -322,7 +322,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog5.jpg" alt="Blog">
                             </a>
                         </div>
@@ -339,11 +339,11 @@
                                 </li>
                             </ul>
                             <h3>
-                                <a href="blog-details.html">Save the environment to safe your life</a>
+                                <a href="blog-details.php">Save the environment to safe your life</a>
                             </h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                 dolor laudantium distinction</p>
-                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                            <a class="blog-btn" href="blog-details.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -351,7 +351,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog6.jpg" alt="Blog">
                             </a>
                         </div>
@@ -368,11 +368,11 @@
                                 </li>
                             </ul>
                             <h3>
-                                <a href="blog-details.html">A world where love is pure and the cure</a>
+                                <a href="blog-details.php">A world where love is pure and the cure</a>
                             </h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                 dolor laudantium distinction</p>
-                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                            <a class="blog-btn" href="blog-details.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -409,7 +409,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="footer-item">
                         <div class="footer-logo">
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="index.php">
                                 <img src="assets/img/logo-two.png"  class="logo-footer" alt="Logo">
                             </a>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero, magni est placeat
@@ -451,7 +451,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donation-details.html">Donate for melina the little child</a>
+                                            <a href="donation-details.php">Donate for melina the little child</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -463,7 +463,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donation-details.html">Relief for Australia cyclone effected</a>
+                                            <a href="donation-details.php">Relief for Australia cyclone effected</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -478,25 +478,25 @@
                             <h3>Quick links</h3>
                             <ul>
                                 <li>
-                                    <a href="about.html">
+                                    <a href="about.php">
                                         <i class="icofont-simple-right"></i>
                                         About
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog.html">
+                                    <a href="blog.php">
                                         <i class="icofont-simple-right"></i>
                                         Blog
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="events.html">
+                                    <a href="events.php">
                                         <i class="icofont-simple-right"></i>
                                         Events
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="donations.html">
+                                    <a href="donations.php">
                                         <i class="icofont-simple-right"></i>
                                         Donation
                                     </a>
@@ -574,4 +574,4 @@
     <script src="assets/js/custom.js"></script>
 </body>
 
-</html>
+<.php>

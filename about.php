@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
+<!DOCTYPE.php>
+.php lang="zxx">
     <head>
         <!--=== Meta Tags ===-->
         <meta charset="UTF-8">
@@ -23,7 +23,7 @@
         <link rel="stylesheet" href="assets/css/theme-dark.css">
 
         <!--=== Title & Favicon ===-->
-        <title>Findo - Fundraising & Charity HTML Template</title>
+        <title>Findo - Fundraising & Charity.php Template</title>
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
     </head>
     <body>
@@ -120,7 +120,7 @@
     <div class="navbar-area sticky-top">
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
-            <a href="index.html" class="logo">
+            <a href="index.php" class="logo">
                 <img src="assets/img/logo-two.png" class="logo-mini-header" alt="Logo">
             </a>
         </div>
@@ -129,40 +129,40 @@
         <div class="main-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="assets/img/logo.png" class="logo-one" alt="Logo">
                         <img src="assets/img/logo-two.png" class="logo-two" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="index.html" class="nav-link active">Home</a>
+                                <a href="index.php" class="nav-link active">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="gallery.html" class="nav-link">Gallery</a>
+                                <a href="gallery.php" class="nav-link">Gallery</a>
                             </li>
 
 
 
                             <li class="nav-item">
-                                <a href="about.html" class="nav-link">About</a>
+                                <a href="about.php" class="nav-link">About</a>
                             </li>
                             <li class="nav-item">
-                                <a href="donations.html" class="nav-link">Donations</a>
+                                <a href="donations.php" class="nav-link">Donations</a>
                             </li>
                             <!-- <li class="nav-item">
-                                <a href="events.html" class="nav-link">Events</a>
+                                <a href="events.php" class="nav-link">Events</a>
                             </li> -->
                             <li class="nav-item">
-                                <a href="blog.html" class="nav-link">Blog</a>
+                                <a href="blog.php" class="nav-link">Blog</a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link">Contact</a>
+                                <a href="contact.php" class="nav-link">Contact</a>
                             </li>
                         </ul>
                         <div class="side-nav">
-                            <a class="donate-btn" href="donations.html">
+                            <a class="donate-btn" href="donations.php">
                                 Donate
                                 <i class="icofont-heart-alt"></i>
                             </a>
@@ -183,7 +183,7 @@
                             <h2>About</h2>
                             <ul>
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </li>
                                 <li>
                                     <span>About</span>
@@ -237,7 +237,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <h3>
-                                <a href="donations.html">Over 20M+ people around the world is having good life because of Findo</a>
+                                <a href="donations.php">Over 20M+ people around the world is having good life because of Findo</a>
                             </h3>
                             <p>We are dedicated to improving the quality of life for thousands of people by providing access to basic needs and essential services. Our initiatives focus on long-term community development and sustainable growth.</p>
                             <h4><span>*50</span>country served world wide</h4>
@@ -248,7 +248,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <h3>
-                                <a href="donations.html">We are supporting the poor and homeless people by providing food</a>
+                                <a href="donations.php">We are supporting the poor and homeless people by providing food</a>
                             </h3>
                             <p>We provide food, shelter, and essential resources to underprivileged and homeless individuals. Our mission is to ensure that no one sleeps hungry and everyone has access to a better life.</p>
                             <h4><span>*Food</span>served world wide</h4>
@@ -259,7 +259,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <h3>
-                                <a href="donations.html">First time a non- profitable organization is fighting against the poverty</a>
+                                <a href="donations.php">First time a non- profitable organization is fighting against the poverty</a>
                             </h3>
                             <p>We collect and manage donations transparently to support those in need. Every contribution helps us fight poverty and create opportunities for a better and more secure future.</p>
                             <h4><span>*Finance</span>collecting & donating</h4>
@@ -270,7 +270,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <h3>
-                                <a href="donations.html">Over 1200+ volunteer working for Findo around the world</a>
+                                <a href="donations.php">Over 1200+ volunteer working for Findo around the world</a>
                             </h3>
                             <p>Our dedicated volunteers are the backbone of our organization, working across different regions to support various social initiatives and bring positive change in society.</p>
                             <h4><span>*Volunteer</span>in every Country</h4>
@@ -281,7 +281,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <h3>
-                                <a href="donations.html">Hands move to support in Yemen combat covid-19 by donating face masks</a>
+                                <a href="donations.php">Hands move to support in Yemen combat covid-19 by donating face masks</a>
                             </h3>
                             <p>We provide health support during emergencies, including medical aid, awareness campaigns, and distribution of essential supplies to affected communities.</p>
                             <h4><span>*Lockdown</span>covid-19 helping</h4>
@@ -292,7 +292,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <h3>
-                                <a href="donations.html">This project seeks to build houses for reduce their suffering allow them to live</a>
+                                <a href="donations.php">This project seeks to build houses for reduce their suffering allow them to live</a>
                             </h3>
                             <p>We help build safe and sustainable homes for families in need, ensuring they have a secure place to live with dignity and hope for a better tomorrow.</p>
                             <h4><span>*150</span>house project</h4>
@@ -491,7 +491,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="footer-item">
                         <div class="footer-logo">
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="index.php">
                                 <img src="assets/img/logo-two.png"  class="logo-footer" alt="Logo">
                             </a>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero, magni est placeat
@@ -533,7 +533,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donation-details.html">Donate for melina the little child</a>
+                                            <a href="donation-details.php">Donate for melina the little child</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -545,7 +545,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donation-details.html">Relief for Australia cyclone effected</a>
+                                            <a href="donation-details.php">Relief for Australia cyclone effected</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -560,25 +560,25 @@
                             <h3>Quick links</h3>
                             <ul>
                                 <li>
-                                    <a href="about.html">
+                                    <a href="about.php">
                                         <i class="icofont-simple-right"></i>
                                         About
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog.html">
+                                    <a href="blog.php">
                                         <i class="icofont-simple-right"></i>
                                         Blog
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="events.html">
+                                    <a href="events.php">
                                         <i class="icofont-simple-right"></i>
                                         Events
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="donations.html">
+                                    <a href="donations.php">
                                         <i class="icofont-simple-right"></i>
                                         Donation
                                     </a>
@@ -655,4 +655,4 @@
         <script src="assets/js/jquery.nice-select.min.js"></script>
         <script src="assets/js/custom.js"></script>
     </body>
-</html>
+<.php>

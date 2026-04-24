@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
+<!DOCTYPE.php>
+.php lang="zxx">
 
 <head>
     <!--=== Meta Tags ===-->
@@ -101,7 +101,7 @@
     <div class="navbar-area sticky-top">
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
-            <a href="index.html" class="logo">
+            <a href="index.php " class="logo">
                 <img src="assets/img/logo-two.png" class="logo-mini-header" alt="Logo">
             </a>
         </div>
@@ -110,40 +110,40 @@
         <div class="main-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="assets/img/logo.png" class="logo-one" alt="Logo">
                         <img src="assets/img/logo-two.png" class="logo-two logo-black" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="index.html" class="nav-link active">Home</a>
+                                <a href="index.php" class="nav-link active">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="gallery.html" class="nav-link">Gallery</a>
+                                <a href="gallery.php" class="nav-link">Gallery</a>
                             </li>
 
 
 
                             <li class="nav-item">
-                                <a href="about.html" class="nav-link">About</a>
+                                <a href="about.php" class="nav-link">About</a>
                             </li>
                             <li class="nav-item">
-                                <a href="donations.html" class="nav-link">Donations</a>
+                                <a href="donations.php" class="nav-link">Donations</a>
                             </li>
                             <!-- <li class="nav-item">
-                                <a href="events.html" class="nav-link">Events</a>
+                                <a href="events.php" class="nav-link">Events</a>
                             </li> -->
                             <li class="nav-item">
-                                <a href="blog.html" class="nav-link">Blog</a>
+                                <a href="blog.php" class="nav-link">Blog</a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link">Contact</a>
+                                <a href="contact.php" class="nav-link">Contact</a>
                             </li>
                         </ul>
                         <div class="side-nav">
-                            <a class="donate-btn" href="donations.html">
+                            <a class="donate-btn" href="donations.php">
                                 Donate
                                 <i class="icofont-heart-alt"></i>
                             </a>
@@ -249,7 +249,7 @@
                         </h3>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular belief is
                             not simply.</p>
-                        <a class="feature-btn" href="donations.html">Join Now</a>
+                        <a class="feature-btn" href="donations.php">Join Now</a>
                     </div>
                 </div>
 
@@ -261,7 +261,7 @@
                         </h3>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular belief is
                             not simply.</p>
-                        <a class="feature-btn" href="donations.html">Join Now</a>
+                        <a class="feature-btn" href="donations.php">Join Now</a>
                     </div>
                 </div>
 
@@ -273,7 +273,7 @@
                         </h3>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular belief is
                             not simply.</p>
-                        <a class="feature-btn" href="donations.html">Join Now</a>
+                        <a class="feature-btn" href="donations.php">Join Now</a>
                     </div>
                 </div>
             </div>
@@ -345,14 +345,14 @@
                         <div class="top">
                             <a class="tags" href="#">#Medical</a>
                             <h3>
-                                <a href="donations.html">Need help for treatment</a>
+                                <a href="donations.php">Need help for treatment</a>
                             </h3>
                             <p>We exist for non-profits, social enterprises, activists. Lorem politicians and individual
                                 citizens.</p>
                         </div>
                         <div class="img">
                             <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                            <a class="common-btn" href="donations.html">Donate Now</a>
+                            <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
                     </div>
@@ -363,14 +363,14 @@
                         <div class="top">
                             <a class="tags" href="#">#Education</a>
                             <h3>
-                                <a href="donations.html">Education for poor children</a>
+                                <a href="donations.php">Education for poor children</a>
                             </h3>
                             <p>We exist for non-profits, social enterprises, activists. Lorem politicians and individual
                                 citizens.</p>
                         </div>
                         <div class="img">
                             <img src="assets/img/donation/donation2.jpg" alt="Donation">
-                            <a class="common-btn" href="donations.html">Donate Now</a>
+                            <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
                     </div>
@@ -381,14 +381,14 @@
                         <div class="top">
                             <a class="tags" href="#">#Family</a>
                             <h3>
-                                <a href="donations.html">Financial help for poor</a>
+                                <a href="donations.php">Financial help for poor</a>
                             </h3>
                             <p>We exist for non-profits, social enterprises, activists. Lorem politicians and individual
                                 citizens.</p>
                         </div>
                         <div class="img">
                             <img src="assets/img/donation/donation3.jpg" alt="Donation">
-                            <a class="common-btn" href="donations.html">Donate Now</a>
+                            <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
                     </div>
@@ -399,14 +399,14 @@
                         <div class="top">
                             <a class="tags" href="#">#Funding</a>
                             <h3>
-                                <a href="donations.html">Funding for family</a>
+                                <a href="donations.php">Funding for family</a>
                             </h3>
                             <p>We exist for non-profits, social enterprises, activists. Lorem politicians and individual
                                 citizens.</p>
                         </div>
                         <div class="img">
                             <img src="assets/img/donation/donation4.jpg" alt="Donation">
-                            <a class="common-btn" href="donations.html">Donate Now</a>
+                            <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
                     </div>
@@ -417,14 +417,14 @@
                         <div class="top">
                             <a class="tags" href="#">#Relief</a>
                             <h3>
-                                <a href="donations.html">Relief for cyclone-affected</a>
+                                <a href="donations.php">Relief for cyclone-affected</a>
                             </h3>
                             <p>We exist for non-profits, social enterprises, activists. Lorem politicians and individual
                                 citizens.</p>
                         </div>
                         <div class="img">
                             <img src="assets/img/donation/donation5.jpg" alt="Donation">
-                            <a class="common-btn" href="donations.html">Donate Now</a>
+                            <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
                     </div>
@@ -435,14 +435,14 @@
                         <div class="top">
                             <a class="tags" href="#">#Drought</a>
                             <h3>
-                                <a href="donations.html">Relief for drought-affected</a>
+                                <a href="donations.php">Relief for drought-affected</a>
                             </h3>
                             <p>We exist for non-profits, social enterprises, activists. Lorem politicians and individual
                                 citizens.</p>
                         </div>
                         <div class="img">
                             <img src="assets/img/donation/donation6.jpg" alt="Donation">
-                            <a class="common-btn" href="donations.html">Donate Now</a>
+                            <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
                     </div>
@@ -806,7 +806,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="footer-item">
                         <div class="footer-logo">
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="index.php">
                                 <img src="assets/img/logo-two.png" class="logo-footer" alt="Logo">
                             </a>
                             <p>We are a dedicated non-profit organization committed to improving lives through education, healthcare, food support, and community development. Our mission is to create a positive social impact by helping underprivileged families and empowering communities for a better future.</p>
@@ -847,7 +847,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donations.html">Donate for melina the little child</a>
+                                            <a href="donations.php">Donate for melina the little child</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -859,7 +859,7 @@
                                     </li>
                                     <li>
                                         <h3>
-                                            <a href="donations.html">Relief for Australia cyclone effected</a>
+                                            <a href="donations.php">Relief for Australia cyclone effected</a>
                                         </h3>
                                     </li>
                                 </ul>
@@ -874,25 +874,25 @@
                             <h3>Quick links</h3>
                             <ul>
                                 <li>
-                                    <a href="about.html">
+                                    <a href="about.php">
                                         <i class="icofont-simple-right"></i>
                                         About
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog.html">
+                                    <a href="blog.php">
                                         <i class="icofont-simple-right"></i>
                                         Blog
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="events.html">
+                                    <a href="events.php">
                                         <i class="icofont-simple-right"></i>
                                         Events
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="donations.html">
+                                    <a href="donations.php">
                                         <i class="icofont-simple-right"></i>
                                         Donation
                                     </a>
@@ -971,4 +971,4 @@
     <script src="assets/js/custom.js"></script>
 </body>
 
-</html>
+<.php>
