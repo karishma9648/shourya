@@ -1,5 +1,5 @@
-<!DOCTYPE.php>
-.php lang="zxx">
+<!DOCTYPE html>
+<html lang="zxx">
     <head>
         <!--=== Meta Tags ===-->
         <meta charset="UTF-8">
