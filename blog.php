@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <!--=== Meta Tags ===-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--=== Link of CSS ===-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/icofont.min.css">
+    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <link rel="stylesheet" href="assets/css/modal-video.min.css">
+    <link rel="stylesheet" href="assets/fonts/flaticon.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/lightbox.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/odometer.min.css">
+    <link rel="stylesheet" href="assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/theme-dark.css">
+
+    <!--=== Title & Favicon ===-->
+    <title>Findo - Fundraising & Charity HTML Template</title>
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="loader">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="pre-box-one">
+                    <div class="pre-box-two"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Preloader -->
+
+    <!-- Header -->
+    <div class="header-area">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-8">
+                    <div class="left">
+                        <ul>
+                            <li>
+                                <i class="icofont-location-pin"></i>
+                                <a href="#">Mandir baba keshow das 34 nawal Kishore road, Hazratganj, Lucknow, 226001</a>
+                            </li>
+                            <li>
+                                <i class="icofont-ui-call"></i>
+                                <a href="tel:0123456987">+91 9670444141</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="right">
+                        <ul>
+                            <li>
+                                <span>Follow Us:</span>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/" target="_blank">
+                                    <i class="icofont-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.twitter.com/" target="_blank">
+                                    <i class="icofont-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/" target="_blank">
+                                    <i class="icofont-youtube-play"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/" target="_blank">
+                                    <i class="icofont-instagram"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        <!-- <div class="language">
+                            <select>
+                                <option>English</option>
+                                <option>العربيّة</option>
+                                <option>Deutsch</option>
+                                <option>Português</option>
+                            </select>
+                        </div> -->
+                        <!-- <div class="header-search">
+                            <i id="search-btn" class="icofont-search-2"></i>
+                            <div id="search-overlay" class="block">
+                                <div class="centered">
+                                    <div id="search-box">
+                                        <i id="close-btn" class="icofont-close"></i>
+                                        <form>
+                                            <input type="text" class="form-control" placeholder="Search..." />
+                                            <button type="submit" class="btn">Search</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- End Header -->
+
+    <!-- Navbar -->
+    <div class="navbar-area sticky-top">
+        <!-- Menu For Mobile Device -->
+        <div class="mobile-nav">
+            <a href="index.html" class="logo">
+                <img src="assets/img/logo-two.png" class="logo-mini-header" alt="Logo">
+            </a>
+        </div>
+
+        <!-- Menu For Desktop Device -->
+        <div class="main-nav">
+            <div class="container">
+                <nav class="navbar navbar-expand-md navbar-light">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="assets/img/logo.png" class="logo-one" alt="Logo">
+                        <img src="assets/img/logo-two.png" class="logo-two" alt="Logo">
+                    </a>
+                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a href="index.html" class="nav-link active">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="gallery.html" class="nav-link">Gallery</a>
+                            </li>
+
+
+
+                            <li class="nav-item">
+                                <a href="about.html" class="nav-link">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="donations.html" class="nav-link">Donations</a>
+                            </li>
+                            <!-- <li class="nav-item">
+                                <a href="events.html" class="nav-link">Events</a>
+                            </li> -->
+                            <li class="nav-item">
+                                <a href="blog.html" class="nav-link">Blog</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="contact.html" class="nav-link">Contact</a>
+                            </li>
+                        </ul>
+                        <div class="side-nav">
+                            <a class="donate-btn" href="donations.html">
+                                Donate
+                                <i class="icofont-heart-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- End Navbar -->
+
+    <!-- Page Title -->
+    <div class="page-title-area title-bg-six">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="container">
+                    <div class="title-item">
+                        <h2>Blog</h2>
+                        <ul>
+                            <li>
+                                <a href="index.html">Home</a>
+                            </li>
+                            <li>
+                                <span>Blog</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Page Title -->
+
+    <!-- Blog -->
+    <section class="blog-area three ptb-100">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-item">
+                        <div class="top">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog1.jpg" alt="Blog">
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <ul>
+                                <li>
+                                    <i class="icofont-calendar"></i>
+                                    <span>21 Jan, 2024</span>
+                                </li>
+                                <li>
+                                    <i class="icofont-user-alt-3"></i>
+                                    <span>By:</span>
+                                    <a href="#">Admin</a>
+                                </li>
+                            </ul>
+                            <h3>
+                                <a href="blog-details.html">Donate for nutration less poor people</a>
+                            </h3>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
+                                dolor laudantium distinction</p>
+                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-item">
+                        <div class="top">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog2.jpg" alt="Blog">
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <ul>
+                                <li>
+                                    <i class="icofont-calendar"></i>
+                                    <span>22 Jan, 2024</span>
+                                </li>
+                                <li>
+                                    <i class="icofont-user-alt-3"></i>
+                                    <span>By:</span>
+                                    <a href="#">Admin</a>
+                                </li>
+                            </ul>
+                            <h3>
+                                <a href="blog-details.html">Charity meetup in Berline next year</a>
+                            </h3>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
+                                dolor laudantium distinction</p>
+                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-item">
+                        <div class="top">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog3.jpg" alt="Blog">
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <ul>
+                                <li>
+                                    <i class="icofont-calendar"></i>
+                                    <span>23 Jan, 2024</span>
+                                </li>
+                                <li>
+                                    <i class="icofont-user-alt-3"></i>
+                                    <span>By:</span>
+                                    <a href="#">Admin</a>
+                                </li>
+                            </ul>
+                            <h3>
+                                <a href="blog-details.html">Donate for the poor people to help them</a>
+                            </h3>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
+                                dolor laudantium distinction</p>
+                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-item">
+                        <div class="top">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog4.jpg" alt="Blog">
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <ul>
+                                <li>
+                                    <i class="icofont-calendar"></i>
+                                    <span>24 Jan, 2024</span>
+                                </li>
+                                <li>
+                                    <i class="icofont-user-alt-3"></i>
+                                    <span>By:</span>
+                                    <a href="#">Admin</a>
+                                </li>
+                            </ul>
+                            <h3>
+                                <a href="blog-details.html">Charity projects for over 10 million people</a>
+                            </h3>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
+                                dolor laudantium distinction</p>
+                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-item">
+                        <div class="top">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog5.jpg" alt="Blog">
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <ul>
+                                <li>
+                                    <i class="icofont-calendar"></i>
+                                    <span>25 Jan, 2024</span>
+                                </li>
+                                <li>
+                                    <i class="icofont-user-alt-3"></i>
+                                    <span>By:</span>
+                                    <a href="#">Admin</a>
+                                </li>
+                            </ul>
+                            <h3>
+                                <a href="blog-details.html">Save the environment to safe your life</a>
+                            </h3>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
+                                dolor laudantium distinction</p>
+                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="blog-item">
+                        <div class="top">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog6.jpg" alt="Blog">
+                            </a>
+                        </div>
+                        <div class="bottom">
+                            <ul>
+                                <li>
+                                    <i class="icofont-calendar"></i>
+                                    <span>26 Jan, 2024</span>
+                                </li>
+                                <li>
+                                    <i class="icofont-user-alt-3"></i>
+                                    <span>By:</span>
+                                    <a href="#">Admin</a>
+                                </li>
+                            </ul>
+                            <h3>
+                                <a href="blog-details.html">A world where love is pure and the cure</a>
+                            </h3>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
+                                dolor laudantium distinction</p>
+                            <a class="blog-btn" href="blog-details.html">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="pagination-area">
+                <ul>
+                    <li>
+                        <a href="#">Prev</a>
+                    </li>
+                    <li>
+                        <a class="active" href="#">1</a>
+                    </li>
+                    <li>
+                        <a href="#">2</a>
+                    </li>
+                    <li>
+                        <a href="#">3</a>
+                    </li>
+                    <li>
+                        <a href="#">Next</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- End Blog -->
+
+   <!-- Footer -->
+    <footer class="footer-area pt-100">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="footer-item">
+                        <div class="footer-logo">
+                            <a class="logo" href="index.html">
+                                <img src="assets/img/logo-two.png"  class="logo-footer" alt="Logo">
+                            </a>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero, magni est placeat
+                                neque, repellat maxime a dolore</p>
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/" target="_blank">
+                                        <i class="icofont-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.twitter.com/" target="_blank">
+                                        <i class="icofont-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/" target="_blank">
+                                        <i class="icofont-youtube-play"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/" target="_blank">
+                                        <i class="icofont-instagram"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="footer-item">
+                        <div class="footer-causes">
+                            <h3>Urgent causes</h3>
+                            <div class="cause-inner">
+                                <ul class="align-items-center">
+                                    <li>
+                                        <img src="assets/img/footer-thumb1.jpg" alt="Cause">
+                                    </li>
+                                    <li>
+                                        <h3>
+                                            <a href="donation-details.html">Donate for melina the little child</a>
+                                        </h3>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="cause-inner">
+                                <ul class="align-items-center">
+                                    <li>
+                                        <img src="assets/img/footer-thumb2.jpg" alt="Cause">
+                                    </li>
+                                    <li>
+                                        <h3>
+                                            <a href="donation-details.html">Relief for Australia cyclone effected</a>
+                                        </h3>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="footer-item">
+                        <div class="footer-links">
+                            <h3>Quick links</h3>
+                            <ul>
+                                <li>
+                                    <a href="about.html">
+                                        <i class="icofont-simple-right"></i>
+                                        About
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog.html">
+                                        <i class="icofont-simple-right"></i>
+                                        Blog
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="events.html">
+                                        <i class="icofont-simple-right"></i>
+                                        Events
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="donations.html">
+                                        <i class="icofont-simple-right"></i>
+                                        Donation
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="footer-item">
+                        <div class="footer-contact">
+                            <h3>Contact info</h3>
+                            <div class="contact-inner">
+                                <ul>
+                                    <li>
+                                        <i class="icofont-location-pin"></i>
+                                        <a href="#">Mandir baba keshow das 34 nawal Kishore road, Hazratganj, Lucknow, 226001</a>
+                                    </li>
+                                    <li>
+                                        <i class="icofont-ui-call"></i>
+                                        <a href="tel:123456789">+91 9670444141</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- <div class="contact-inner">
+                                <ul>
+                                    <li>
+                                        <i class="icofont-location-pin"></i>
+                                        <a href="#">6A, New street, Spain</a>
+                                    </li>
+                                    <li>
+                                        <i class="icofont-ui-call"></i>
+                                        <a href="tel:548658956">+548-658-956</a>
+                                    </li>
+                                </ul>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="copyright-area">
+                <p>Copyright @
+                    <script>document.write(new Date().getFullYear())</script> Shaureya Foundation. Designed By <a href="#"
+                        target="_blank">Sansoft It Solutions</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Go Top -->
+    <div class="go-top">
+        <i class="icofont-arrow-up"></i>
+        <i class="icofont-arrow-up"></i>
+    </div>
+    <!-- End Go Top -->
+
+
+    <!--=== Essential JS ===-->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/form-validator.min.js"></script>
+    <script src="assets/js/contact-form-script.js"></script>
+    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/js/jquery.meanmenu.js"></script>
+    <script src="assets/js/jquery-modal-video.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/lightbox.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+</body>
+
+</html>
