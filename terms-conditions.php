@@ -234,8 +234,7 @@
                             <a class="logo" href="index.php">
                                 <img src="assets/img/logo-two.png"  class="logo-footer" alt="Logo">
                             </a>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero, magni est placeat
-                                neque, repellat maxime a dolore</p>
+                            <p>We are a non-profit organization dedicated to supporting underprivileged communities through education, healthcare, food support, and social initiatives. Join us in making a positive impact and building a better future for all.</p>
                             <ul>
                                 <li>
                                     <a href="https://www.facebook.com/" target="_blank">

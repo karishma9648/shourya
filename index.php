@@ -247,8 +247,7 @@
                         <h3>
                             <a href="#">Be a volunteer</a>
                         </h3>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular belief is
-                            not simply.</p>
+                        <p>Join our volunteer network and make a real difference in people’s lives. Contribute your time and skills to support social causes and help build stronger communities.</p>
                         <a class="feature-btn" href="donations.php">Join Now</a>
                     </div>
                 </div>
@@ -259,8 +258,7 @@
                         <h3>
                             <a href="#">Donate now</a>
                         </h3>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular belief is
-                            not simply.</p>
+                        <p>Support our mission by donating and helping provide food, education, healthcare, and shelter to those in need. Every contribution brings hope and creates lasting impact.</p>
                         <a class="feature-btn" href="donations.php">Join Now</a>
                     </div>
                 </div>
@@ -271,8 +269,7 @@
                         <h3>
                             <a href="#">Show your love</a>
                         </h3>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular belief is
-                            not simply.</p>
+                        <p>Spread kindness and compassion by supporting our initiatives. Together, we can bring smiles, care, and positive change to underprivileged communities.</p>
                         <a class="feature-btn" href="donations.php">Join Now</a>
                     </div>
                 </div>

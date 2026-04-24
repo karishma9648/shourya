@@ -237,7 +237,7 @@
 
                 <form id="contactForm">
                     <h2>Let's talk...!</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, iusto possimus doloremque amet vitae facere blanditiis nulla explicabo obcaecati nihil ipsam deleniti nesciunt illo, non iure</p>
+                    <p>Join us in creating positive change. Together, we can support underprivileged communities and build a better, more inclusive future</p>
                     <div class="row">
 
                         <div class="col-lg-6">
@@ -341,7 +341,7 @@
                                 <a class="logo" href="index.php">
                                     <img src="assets/img/logo-two.png" alt="Logo">
                                 </a>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero, magni est placeat neque, repellat maxime a dolore</p>
+                                <p>We are a non-profit organization dedicated to supporting underprivileged communities through education, healthcare, food support, and social initiatives. Join us in making a positive impact and building a better future for all.</p>
                                 <ul>
                                     <li>
                                         <a href="https://www.facebook.com/" target="_blank">
