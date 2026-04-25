@@ -42,7 +42,7 @@
     <!-- End Preloader -->
 
     <!-- Header -->
-    <div class="header-area">
+    <!-- <div class="header-area">
         <div class="container">
             <div class="row">
 
@@ -88,7 +88,7 @@
                                     <i class="icofont-instagram"></i>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> -->
                         <!-- <div class="language">
                             <select>
                                 <option>English</option>
@@ -111,12 +111,12 @@
                                 </div>
                             </div>
                         </div> -->
-                    </div>
+                    <!-- </div>
                 </div>
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Header -->
 
     <!-- Navbar -->
@@ -141,15 +141,17 @@
                             <li class="nav-item">
                                 <a href="index.php" class="nav-link active">Home</a>
                             </li>
+
+                            <li class="nav-item">
+                                <a href="about.php" class="nav-link">About</a>
+                            </li>
                             <li class="nav-item">
                                 <a href="gallery.php" class="nav-link">Gallery</a>
                             </li>
 
 
 
-                            <li class="nav-item">
-                                <a href="about.php" class="nav-link">About</a>
-                            </li>
+                            
                             <li class="nav-item">
                                 <a href="donations.php" class="nav-link">Donations</a>
                             </li>
@@ -162,6 +164,9 @@
 
                             <li class="nav-item">
                                 <a href="contact.php" class="nav-link">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="legal.php" class="nav-link">Legal</a>
                             </li>
                         </ul>
                         <div class="side-nav">
@@ -420,4 +425,4 @@
     <script src="assets/js/custom.js"></script>
 </body>
 
-<.php>
+</html>

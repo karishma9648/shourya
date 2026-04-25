@@ -42,7 +42,7 @@
     <!-- End Preloader -->
 
     <!-- Header -->
-    <div class="header-area">
+    <!-- <div class="header-area">
         <div class="container">
             <div class="row">
 
@@ -94,7 +94,7 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Header -->
 
     <!-- Navbar -->
@@ -119,15 +119,17 @@
                             <li class="nav-item">
                                 <a href="index.php" class="nav-link active">Home</a>
                             </li>
+
+                            <li class="nav-item">
+                                <a href="about.php" class="nav-link">About</a>
+                            </li>
                             <li class="nav-item">
                                 <a href="gallery.php" class="nav-link">Gallery</a>
                             </li>
 
 
 
-                            <li class="nav-item">
-                                <a href="about.php" class="nav-link">About</a>
-                            </li>
+                            
                             <li class="nav-item">
                                 <a href="donations.php" class="nav-link">Donations</a>
                             </li>
@@ -140,6 +142,10 @@
 
                             <li class="nav-item">
                                 <a href="contact.php" class="nav-link">Contact</a>
+                            </li>
+
+                             <li class="nav-item">
+                                <a href="legal.php" class="nav-link">Legal</a>
                             </li>
                         </ul>
                         <div class="side-nav">
@@ -223,7 +229,7 @@
 
                 <div class="col-lg-6">
                     <div class="about-img">
-                        <img src="assets/img/about/about-main2.jpg" alt="About">
+                        <img src="image/img6.jpeg" alt="About">
                         <div class="video-wrap">
                             <button class="js-modal-btn" data-video-id="uemObN8_dcw">
                                 <i class="icofont-ui-play"></i>
@@ -348,7 +354,7 @@
                                 citizens.</p>
                         </div>
                         <div class="img">
-                            <img src="assets/img/donation/donation1.jpg" alt="Donation">
+                            <img src="image/img9.jpeg" alt="Donation">
                             <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
@@ -366,7 +372,7 @@
                                 citizens.</p>
                         </div>
                         <div class="img">
-                            <img src="assets/img/donation/donation2.jpg" alt="Donation">
+                            <img src="image/img4.jpeg" alt="Donation">
                             <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
@@ -384,7 +390,7 @@
                                 citizens.</p>
                         </div>
                         <div class="img">
-                            <img src="assets/img/donation/donation3.jpg" alt="Donation">
+                            <img src="image/img6.jpeg" alt="Donation">
                             <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
@@ -402,7 +408,7 @@
                                 citizens.</p>
                         </div>
                         <div class="img">
-                            <img src="assets/img/donation/donation4.jpg" alt="Donation">
+                            <img src="image/img3.jpeg" alt="Donation">
                             <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
@@ -420,7 +426,7 @@
                                 citizens.</p>
                         </div>
                         <div class="img">
-                            <img src="assets/img/donation/donation5.jpg" alt="Donation">
+                            <img src="image/img3.jpeg" alt="Donation">
                             <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
@@ -438,7 +444,7 @@
                                 citizens.</p>
                         </div>
                         <div class="img">
-                            <img src="assets/img/donation/donation6.jpg" alt="Donation">
+                            <img src="image/img12.jpeg" alt="Donation">
                             <a class="common-btn" href="donations.php">Donate Now</a>
                         </div>
 
@@ -510,43 +516,42 @@
             <div class="gallery-slider owl-theme owl-carousel">
 
                 <div class="gallery-item">
-                    <a href="assets/img/gallery/gallery1.jpg" data-lightbox="roadtrip">
-                        <img src="assets/img/gallery/gallery1.jpg" alt="Gallery">
+                    <a href="image/img14.jpeg" data-lightbox="roadtrip">
+                        <img src="image/img14.jpeg" alt="Gallery">
                         <i class="icofont-eye"></i>
                     </a>
                 </div>
 
                 <div class="gallery-item">
-                    <a href="assets/img/gallery/gallery2.jpg" data-lightbox="roadtrip">
-                        <img src="assets/img/gallery/gallery2.jpg" alt="Gallery">
+                    <a href="image/img6.jpeg" data-lightbox="roadtrip">
+                        <img src="image/img6.jpeg" alt="Gallery">
+                        <i class="icofont-eye"></i>
+                    </a>
+                </div>
+                <div class="gallery-item">
+                    <a href="image/img8.jpeg" data-lightbox="roadtrip">
+                        <img src="image/img8.jpeg" alt="Gallery">
                         <i class="icofont-eye"></i>
                     </a>
                 </div>
 
                 <div class="gallery-item">
-                    <a href="assets/img/gallery/gallery3.jpg" data-lightbox="roadtrip">
-                        <img src="assets/img/gallery/gallery3.jpg" alt="Gallery">
+                    <a href="image/img3.jpeg" data-lightbox="roadtrip">
+                        <img src="image/img3.jpeg" alt="Gallery">
                         <i class="icofont-eye"></i>
                     </a>
                 </div>
 
                 <div class="gallery-item">
-                    <a href="assets/img/gallery/gallery4.jpg" data-lightbox="roadtrip">
-                        <img src="assets/img/gallery/gallery4.jpg" alt="Gallery">
+                    <a href="image/img4.jpeg" data-lightbox="roadtrip">
+                        <img src="image/img4.jpeg" alt="Gallery">
                         <i class="icofont-eye"></i>
                     </a>
                 </div>
 
-                <div class="gallery-item">
-                    <a href="assets/img/gallery/gallery5.jpg" data-lightbox="roadtrip">
-                        <img src="assets/img/gallery/gallery5.jpg" alt="Gallery">
-                        <i class="icofont-eye"></i>
-                    </a>
-                </div>
-
-                <div class="gallery-item">
-                    <a href="assets/img/gallery/gallery6.jpg" data-lightbox="roadtrip">
-                        <img src="assets/img/gallery/gallery6.jpg" alt="Gallery">
+                            <div class="gallery-item">
+                                <a href="assets/img/gallery/gallery6.jpg" data-lightbox="roadtrip">
+                        <img src="image/img6.jpeg" alt="Gallery">
                         <i class="icofont-eye"></i>
                     </a>
                 </div>
@@ -569,7 +574,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="team-item">
                         <div class="top">
-                            <img src="assets/img/team/team1.jpg" alt="Team">
+                            <img src="image/img7.jpg" alt="Team">
                             <ul>
                                 <li>
                                     <a href="https://www.facebook.com/" target="_blank">
@@ -603,7 +608,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="team-item">
                         <div class="top">
-                            <img src="assets/img/team/team2.jpg" alt="Team">
+                            <img src="image/img10.jpg" alt="Team">
                             <ul>
                                 <li>
                                     <a href="https://www.facebook.com/" target="_blank">
@@ -637,7 +642,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="team-item">
                         <div class="top">
-                            <img src="assets/img/team/team3.jpg" alt="Team">
+                            <img src="image/img11.jpg" alt="Team">
                             <ul>
                                 <li>
                                     <a href="https://www.facebook.com/" target="_blank">
@@ -968,4 +973,4 @@
     <script src="assets/js/custom.js"></script>
 </body>
 
-<.php>
+</html>
