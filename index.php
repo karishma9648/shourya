@@ -22,10 +22,14 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/theme-dark.css">
+    <link rel="stylesheet" href="assets/css/floating-icons.css">
+    
+
 
     <!--=== Title & Favicon ===-->
     <title>Shaureya - Fundraising & Charity </title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 
 <body>
@@ -97,6 +101,7 @@
     </div> -->
     <!-- End Header -->
 
+
     <!-- Navbar -->
     <div class="navbar-area sticky-top">
         <!-- Menu For Mobile Device -->
@@ -160,6 +165,21 @@
         </div>
     </div>
     <!-- End Navbar -->
+
+    <!-- Floating Contact Icons -->
+<div class="contact-icons">
+    <!-- WhatsApp -->
+    <a href="https://wa.me/919670444141" target="_blank" class="whatsapp">
+       <i class="fa-brands fa-whatsapp"></i>
+    </a>
+
+    <!-- Call -->
+    <a href="tel:+91 9670444141" class="call">
+        <i class="fa fa-phone"></i>
+    </a>
+</div>
+
+
 
     <!-- Video Banner -->
     <div class="video-banner-area">
