@@ -209,7 +209,7 @@
 
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="assets/img/about/about-main1.jpg" alt="About">
+                            <img src="image\download (4).jpeg" alt="About">
                         </div>
                     </div>
 
@@ -379,14 +379,14 @@
             <div class="container">
                 <div class="section-title">
                     <span class="sub-title">Volunteer</span>
-                    <h2>Meet our excellent</h2>
+                    <h2>Meet our excellent volunteers</h2>
                     <p>We exist for non-profits, social enterprises, community groups, activists,lorem politicians and individual citizens that are making.</p>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-sm-6 col-lg-4">
                         <div class="team-item">
                             <div class="top">
-                                <img src="assets/img/team/team1.jpg" alt="Team">
+                                <img src="image/img7.jpg" alt="Team">
                                 <ul>
                                     <li>
                                         <a href="https://www.facebook.com/" target="_blank">
@@ -420,7 +420,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="team-item">
                             <div class="top">
-                                <img src="assets/img/team/team2.jpg" alt="Team">
+                                <img src="image/img10.jpg" alt="Team">
                                 <ul>
                                     <li>
                                         <a href="https://www.facebook.com/" target="_blank">
@@ -454,7 +454,7 @@
                     <div class="col-sm-6 col-lg-4">
                         <div class="team-item">
                             <div class="top">
-                                <img src="assets/img/team/team3.jpg" alt="Team">
+                                <img src="image/img11.jpg" alt="Team">
                                 <ul>
                                     <li>
                                         <a href="https://www.facebook.com/" target="_blank">

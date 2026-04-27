@@ -210,8 +210,8 @@
                         <div class="contact-info">
                             <i class="icofont-location-pin"></i>
                             <span>Location:</span>
-                            <a href="#">6B, Helvetica street, Jordan</a>
-                            <a href="#">6A, North street, Jordan</a>
+                            <a href="#">Mandir baba keshow das 34 nawal Kishore road,Hazratganj, Lucknow, 226001 </a>
+                            <!-- <a href="#">6A, North street, Jordan</a> -->
                         </div>
                     </div>
 
@@ -219,8 +219,9 @@
                         <div class="contact-info">
                             <i class="icofont-ui-call"></i>
                             <span>Phone:</span>
-                            <a href="tel:123456789">+123-456-789</a>
-                            <a href="tel:548658956">+548-658-956</a>
+                            <a href="tel:123456789">+91 9670444141
+</a>
+                            <!-- <a href="tel:548658956">+548-658-956</a> -->
                         </div>
                     </div>
 
@@ -448,15 +449,15 @@
                                     <ul>
                                         <li>
                                             <i class="icofont-location-pin"></i>
-                                            <a href="#">6B, Helvetica street, Jordan</a>
+                                            <a href="#">Mandir baba keshow das 34 nawal Kishore road, Hazratganj, Lucknow, 226001</a>
                                         </li>
                                         <li>
                                             <i class="icofont-ui-call"></i>
-                                            <a href="tel:123456789">+123-456-789</a>
+                                            <a href="tel:123456789">+91 9670444141</a>
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="contact-inner">
+                                <!-- <div class="contact-inner">
                                     <ul>
                                         <li>
                                             <i class="icofont-location-pin"></i>
@@ -467,7 +468,7 @@
                                             <a href="tel:548658956">+548-658-956</a>
                                         </li>
                                     </ul>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

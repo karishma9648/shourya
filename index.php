@@ -514,8 +514,8 @@
 
                 <div class="col-lg-6">
                     <div class="work-img">
-                        <img src="assets/img/work/work1.jpg" alt="Work">
-                        <img src="assets/img/work/work2.jpg" alt="Work">
+                        <img src="image\download (3).jpeg" alt="Work">
+                        <img src="image\download (2).jpeg" alt="Work">
                     </div>
                 </div>
 
@@ -709,7 +709,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="testimonial-img">
-                            <img src="assets/img/testimonial/testimonial1.jpg" alt="Testimonial">
+                            <img src="image\images (4).jpeg" alt="Testimonial">
                             <h3>Jac Jacson</h3>
                             <span>CEO & Abanda</span>
                         </div>
@@ -745,7 +745,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="testimonial-img">
-                            <img src="assets/img/testimonial/testimonial2.jpg" alt="Testimonial">
+                            <img src="image\download (7).jpeg" alt="Testimonial">
                             <h3>Tom Henry</h3>
                             <span>Manager</span>
                         </div>
@@ -781,7 +781,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="testimonial-img">
-                            <img src="assets/img/testimonial/testimonial3.jpg" alt="Testimonial">
+                            <img src="image\images (5).jpeg" alt="Testimonial">
                             <h3>Micheal Shon</h3>
                             <span>Director</span>
                         </div>
